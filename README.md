@@ -40,9 +40,6 @@ Ensure you have the following installed:
    flutter run
    ```
 
-## 📷 Screenshots
-![Todo List App](https://via.placeholder.com/600x300.png?text=Screenshot+Coming+Soon)
-
 ## 🛠️ Project Structure
 ```
 Flutter-todo_list-App/
